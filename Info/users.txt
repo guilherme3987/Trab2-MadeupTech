@@ -1,0 +1,648 @@
+0x005c
+0x4A-0x41-0x4B
+=
+Aaron Hill
+Abenezer Adane
+Abestanis
+Abhinav
+Achyut Rastogi
+Adachinski
+Adam Siembida
+Akshay Arora
+Alan
+Alan Justino
+Alan Justino da Silva
+Albert Casals
+Albert Kurucz
+Albert Zeyer
+Alberto Galera
+Aleksandr Vladimirskiy
+Alex Leighton
+Alexander Lais
+Alexander Taylor
+Alexander Wolf
+Alexandre Esse
+Alexandre Magno
+Alexey Smishlayev
+Alspb
+Amin Etesamian
+Anders
+Anders H
+Anders Högqvist
+AndiEcker
+Andre Miras
+Andreas Ecker
+Andreas Klostermann
+Andres Vargas
+Andrew McLeod
+Andrii Oriekhov
+André Oliveira
+André Sbrocco Figueiredo
+Andy Doucette
+Anthon van der Neut
+AnthonyZimmermann
+AnthonyZimmermann@Thinkpad
+Arien Tolner
+Arlo White
+Armin Sebastian
+Arnold Loubriat
+Aron Bordin
+Asad Rauf
+Asalerm
+Ashok Kumar P (ParokshaX)
+Atis
+Audrey Roy
+Auskas
+Bakterija
+Balazs OROSZI
+Bastian Venthur
+Ben Hagen
+Ben Rousch
+Ben Saylor
+Benito Rodríguez Arcos
+Benjamin Thyreau
+Benoit HERVIER
+Bernhard M. Wiedemann
+Bitdeli Chef
+Björn Wingman
+Bob the Hamster
+BoonsNaibot
+Boxiang Sun
+Boyan Hristov
+Brendan Jurd
+Brent Picasso
+Brian Knapp
+Bruno Gola
+Caleb P. Burns
+Carlos Neves
+Cayci Gorlitsky
+CdrSonan
+Cecil Curry
+Charl P. Botha
+Charles Merriam
+Charles de Villiers
+Charlie Yan
+Cheaterman
+Chozabu
+Chris Hamberg
+Chris Vincent
+Christian Clauss
+Christian Rishøj
+Christian Sirolli
+Christofer Bertonha
+Christoph Pittracher
+Christophe CHAUVET
+Christopher Denter
+Coen de Groot
+CreamyCookie
+CristiFati
+Cédric Krier
+D4SK
+Dalton Woodside-Moffatt
+Daniel
+Daniel Foerster
+Danny Dawson
+Darko Pevec
+David Fraser
+David H. Bronke
+David Madigan
+David Naylor
+David Pesticcio
+DavidCaughell
+Davide Depau
+Dean Serenevy
+DefaultUser
+Denys Duchier
+DerThorsten
+Derek Stavis
+Derek Willian Stavis
+Dev
+Dexer
+Dimitris Xenakis
+Diogo Silva
+Dirk Janssen
+DizzyDogg
+Dominik Kozaczko
+Dominik Lang
+Dominik Spicher
+Dominique B
+Dominique Burnand
+Don Kirkby
+Donald Curtis
+Dustin Farris
+Dusty Phillips
+Dylan Jeffers
+EdTheDev
+Edoardo
+Edoardo Spadoni
+Edward Betts
+Edward Delaporte
+Edwin Marshall
+Edwin Marshall (aspidites)
+Edwin O Marshall
+Eero af Heurlin
+Elliot Garbus
+ElliotGarbus
+Emanuele Olivetti
+Emil Milanov
+EndilWayfare
+Eowyn
+Eric Atkin
+Eric Gaudet
+Eric Man
+Eric S. Bullington
+Ernst Sjöstrand
+Erwin Rieger
+Eugene
+Even Wiik Thomassen
+Evgeniy Selezniov
+Evstifeev Roman
+Ewen Le Bihan
+Fabian Schuetz
+Farley Lai
+Federico Curzel
+Felix Yan
+FeralBytes
+Fermi paradox
+Filip Radović
+Filipe Marchesini
+Florent Paterno
+FluxIX
+Font
+Franccisco
+Francis Lavoie
+Francisco Bustos
+Frank Mata
+G
+G.Tjebbes
+Gabriel
+Gabriel Ortega
+Gabriel Pettier
+Gabriel Vogel
+Gagaro
+Galland
+Gaurav Trivedi
+Gendo Ikari
+Geo Maciolek
+George Peristerakis
+George Sebastian
+Gipzo
+Girts Folkmanis
+Gleapsite
+GoBig87
+GottaDiveIntoPython
+GreenJon902
+Greg
+Grzywomat
+Guillermo Gutiérrez
+Gun.io Whitespace Robot
+Gunnar Strand
+Guy Sheffer
+Hakan Ardo
+Hao HU
+Helen ST
+Holger Badorreck
+Howard Chang
+Hudson Barkley
+Hugo van Kemenade
+Huyston
+Ian
+Ian Foote
+Ian McCowan
+Ibrahim Cetin
+Ilya Kochankov
+Imran Haque
+Injo Luuvish Hwang
+Intchanter
+Ivan Djuricic
+Ivlev Denis
+Jack Darlington
+JackAnderson5
+Jacob Gustafson
+JakubBlaha
+James Boyden
+James Moore
+James Paige
+James Townley
+Jan Kantert
+Jan Malte Gerth
+Jason Xun Xu
+Jeff Kreis
+Jeff Pittman
+Jeroen Doggen
+Jess
+Jim Bailey
+Jim Morris
+Joakim Gebart
+Joakim Nohlgård
+Joao S O Bueno
+Joe Hillenbrand
+Johan Toft
+John Mercouris
+Jonas Groeger
+Jonas Schröder
+Jonas Zimmermann
+Jonathan Schemoul
+Jordan Emerson
+Jorge Gueorguiev Garcia
+Joseph Hager
+Joseph Kogut
+Joseph Lee
+Josh Sarver
+José Carlos García
+João Pinto
+Julian
+Julian-O
+Julien Bouquillon
+Julien CORON
+Julien Miotte
+Juraj Fiala
+Justin Marsh (:flaviusb)
+Jérémy RIVIERE
+Kanji Origin
+Karel Mácha
+Karl Sander
+Kartik Singhal
+Kate Richardson
+Kenechukwu Akubue
+Kevin Ndung'u
+Kjell Wooding
+Kjetil Andre Liknes
+Kolibreee
+Konstantin Baikov
+Kostiantyn Syrykh
+Kovak
+Krister Viirsaar
+Kristian Sloth Lauszus
+Kulothungan U.G
+Larissa Feng
+Laspimon
+Laurent
+Lauritz V. Thaulow
+Lazar Doric
+Learn Leap Fly
+Legikaloz
+Leon Davison
+Leva7
+Lindström Mathias
+Lipi
+LogicalDash
+Loial
+Louwrensth
+Lucas Couto
+Lucas Samaruga
+Ludwig Kraatz
+Lukasz Taczuk
+Luke Biddle
+M. Dietrich
+Mak Sim
+Manthan Sharma
+Marisuz Obajtek
+Mark Eichin
+Mark Skelton
+Martin
+Martin Nowak
+Mathias Lindström
+Mathieu Virbel
+Matt Einhorn
+Matt Haggard
+Matthew Einhorn
+Matthew Joyce
+Matthew Russell
+Matthias Harrer
+Meet Udeshi
+Metathink
+Michael Howitz
+Michal Smrž
+Mihály Mirk
+Mike Tran
+Mirko
+Mirko Galimberti
+Nafis Abdullah Khan
+Narcisse Assogba
+Nathan Hyde
+Nattōsai Mitō
+Necronomicron
+NeuroSerpens
+Nexc
+Ng Oon-Ee
+Nicolas Primeau
+Nidhi Nishad
+Nik Klever
+Niklas Hasselmeyer
+Niko Skrypnik
+Nikolay Sedelnikov
+Nils-Hero Lindemann
+Noah
+NomadDemon
+Oleksandr Orlov
+Oliver Marks
+Olivier Boesch
+Oscar Ramirez
+Owatch
+Pablo Mendoza
+Pablo Woolvett
+Pamir Roy
+Park Hyunwoo
+Pascal JACQ
+Patrik Dufresne
+Paul Cochrane
+Paul Jimenez
+Peter Badida
+Peter Dave Hello
+Peter Tripp
+Petr Vanek
+Petr Viktorin
+Pierre-Antoine Delsart
+Piotr Kasprzyk
+Pol Canelles
+Prateek Saxena
+Punjab
+Qua-non
+RA-dim
+Rafa
+Rafał Kaczor
+Rafał Kropidłowski
+Randall Mason
+Randy Eckenrode
+Rasmus Pedersen
+Ray Gomez
+Rene Horn
+Rich Kinder
+Richard
+Richard Baumann
+Richard Jones
+Richard Larkin
+Rio Kierkels
+Robert Bradshaw
+Robert Niederreiter
+RobertF
+Roberto
+Robin Picard
+Roger Erens
+Rolf Schroeder
+Romain Dorgueil
+Romain Heller
+Ronnie Andrew Magatti
+Rosemary Sebastian
+Russell Bryant
+Ryan Northey
+Ryan Pessa
+Sagun Pai
+Sam Brotherton
+Samuel Villamonte
+SanAndreyas
+Sander Land
+Saqib Azim
+Sean Castette
+Sean O'Donnell
+Sebastian Engel
+Sehar Batool
+Sepehr Hamzehlouy
+Shai Avraham
+Shashi Ranjan
+Shubham Tatvamasi
+Silas Gyger
+Skaft
+Sourav Badami
+SpootDev
+Stanislav Syekirin
+Stas Zytkiewicz
+Stephen Littman
+Steven Braeger
+Steven P. Wells
+Stuart Axon
+Stéphane Planquart
+SubaruArai
+Sumit Gupta
+Sumit Madhwani
+Suriyan
+Susmit
+Sylvain Alborini
+SynedraAcus
+Tangible Display
+Taylor Foxhall
+Terje Skjaeveland
+The Cheaterman
+Thijs Triemstra
+Thomas Hansen
+Thomas Hirsch
+Thomas-Karl Pietrowski
+ThomasV
+Thorsten B
+Tico
+Tim Gates
+Tim Henning
+Timur Pulathaneli
+Tobias Macey
+Tom Dudley
+Tom Ritchford
+Tomas Krizek
+Tomasz CEDRO
+Tony
+Tony Narlock
+Tyler Conrad
+Uchenna Wealth
+VIGNESH KUMAR
+Valentine Davydov
+Valinor
+Vibhakar Solanki
+Vinayak Sachan
+Volker Gaibler
+Vyacheslav Korneev
+Vyacheslav Shevchenko
+Waldo Bronchart
+Wenshan
+Wessix
+Will Smith
+WillW
+William Bernoudy
+WutDuk?
+Xingan Wang
+Xnot
+Xovaryu
+Yash Jain
+Yordan Miladinov
+Yuval Langer
+Zachary Spector
+Zen-CODE
+ZenCODE
+ZingBallyhoo
+abayomi185
+akshauaurora
+akshayaurora
+alex
+allerter
+anand vibhuti
+andong777
+ankit baruah
+aspidites
+atharva-satpute
+audryste
+azinneck0485
+azixMcAze
+bajisci
+baseplate-admin
+bhaveshAn
+bibile
+bionoid
+bountysource-support
+brami
+cgohlke
+chadys
+chemelnucfin
+clach04
+clayote
+clobo
+comet
+crigaut
+dami0
+darkopevec
+dessant
+dirtbirb
+djogy
+dolang
+dsr
+e-matteson
+eefvx
+el-ethan
+el3phanten
+emanuele-f
+eric15342335
+eriksandberg
+erm3nda
+filippo savi
+fk-lx
+fluxrider
+fruitbat
+fumiya-kubota
+gabriel pettier
+gabriel.pettier
+geeklint
+geojeff
+germn
+gfyoung
+gitshub
+gkanarek
+gottadiveintopython
+gtrivedi
+hajime
+hansent
+ia7ck
+ire-and-curses
+ismailof
+janssen
+jdla
+jehutting
+jfishzon
+jfrancoc
+kinkoazc
+kivy
+kopias
+kovak
+krivar
+kumoshk
+lee-rice
+legikaloz
+leonardo lontra
+loa-in-
+luphord
+luz paz
+luzpaz
+macropas
+maddyaby
+maho
+mahomahomaho
+marinelay
+matham
+matias morant
+meow464
+mid-kid
+mihaineacsu
+milanboers
+mp-007
+nadaz
+noEmbryo
+odidev
+okr
+onnlv
+onsunsl
+opacam
+oshotton
+outdooracorn
+p0lygun
+parabolize
+paulocheque
+pedroarduini
+phunsukwangdu
+picibucor
+pkor
+pwoolvett
+pythonic64
+qua-non
+quanon
+quitegreensky
+rafalou38
+rainbowdesign
+rekom
+remip
+renovate[bot]
+richard
+rogererens
+root
+rtsh
+s0h3ck
+saband
+salt-die
+samize
+sanctusgee
+sanderland
+saqib1707
+saurabhiiit
+scoder
+seales
+sentient07
+shayne
+shreyash
+shyam saini
+simon klemenc
+sirpercival
+skall
+sky
+smishlayev
+snuq
+souravbadami
+stuartmarsden
+sugarlata
+tangofoxtrotmike
+td1803
+techwiz24
+test
+tohin
+toomanybrians
+triselectif
+tshirtman
+unknown
+vchslv13
+verderten
+vernondcole
+vicendithas
+victor-rene
+vitorio
+vmaillol
+voen
+waffle.io
+weihuang
+werton
+wezu
+will
+willow
+wolfc01
+xayhewalo
+yaki29
+yann
+yashsharan
+yves-surrel
+zencode
+水戸う納豆斎(Nattōsai Mitō)
+水戸う納豆齋(Nattōsai Mitō)
