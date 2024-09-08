@@ -1,0 +1,20 @@
+  1802	Mathieu Virbel <mat@kivy.org>
+   845	Zen-CODE <zenkey.zencode@gmail.com>
+   725	Matthew Einhorn <moiein2000@gmail.com>
+   389	Mathieu Virbel <mathieu@pymt.eu>
+   300	qua-non <akshayaurora@gmail.com>
+   275	tshirtman <gabriel.pettier@gmail.com>
+   249	Alexander Taylor <alexanderjohntaylor@gmail.com>
+   245	matham <moiein2000@gmail.com>
+   239	Peter Badida <KeyWeeUsr@users.noreply.github.com>
+   209	akshayaurora <akshayaurora@gmail.com>
+   198	dessant <dessant@users.noreply.github.com>
+   185	Qua-non <akshayaurora@gmail.com>
+   178	Ryan Pessa <ryan@essential-elements.net>
+   175	Jeff Pittman <geojeff@me.com>
+   151	Mirko Galimberti <me@mirkogalimberti.com>
+   147	Akshay Arora <akshayaurora@gmail.com>
+   122	Christopher Denter <christopher@kivy.org>
+   109	Thomas Hansen <thomas.hansen@gmail.com>
+    96	dessant <dessant@kivy.org>
+    89	Gabriel Pettier <gabriel.pettier@gmail.com>
