@@ -4,4 +4,5 @@ git log --format="%aD" | tail -1 | tee data_repo.txt #Idade do repositório
 git log --pretty=format: --name-only | sort | uniq -c | sort -nr | head -10 | tee file  #Arquivos mais ativos do diretório
 git log --pretty=format: --name-only --no-merges | sort | uniq -c | sort -nr | head -20 | tee files-churn.txt
 git log --pretty=format:"%h - %an, %ad : %s" --since="12 months ago" | tee commits_data.txt #Lista todos commits por data
+git rev-list --count HEAD --since="12 months ago" | tee num_commits.txt
 
