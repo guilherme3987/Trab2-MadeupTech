@@ -1,0 +1,20 @@
+   9932 
+    401 kivy/uix/textinput.py
+    388 setup.py
+    333 kivy/core/window/__init__.py
+    280 kivy/data/style.kv
+    228 kivy/uix/widget.py
+    221 kivy/__init__.py
+    216 kivy/uix/scrollview.py
+    210 kivy/lang.py
+    206 kivy/properties.pyx
+    185 kivy/core/text/__init__.py
+    178 kivy/uix/label.py
+    163 kivy/app.py
+    163 .travis.yml
+    158 kivy/uix/listview.py
+    157 kivy/config.py
+    144 kivy/core/window/window_sdl2.py
+    140 kivy/core/image/__init__.py
+    138 kivy/graphics/texture.pyx
+    134 kivy/uix/screenmanager.py
