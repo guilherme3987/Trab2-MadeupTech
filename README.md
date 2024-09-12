@@ -5,6 +5,7 @@
 A MadeupTech precisa adicionar novas funcionalidades porque está expandindo sua plataforma de software. Nossa equipe descobriu dois repositórios de código aberto que fornecem os recursos necessários para o desenvolvimento de interfaces de usuário (GUI) baseadas na web após uma investigação minuciosa. 
 
 Neste relatório, estabelecemos três métricas principais para comparar a saúde dos dois repositórios: **Kivy** e **Dear PyGUI**. Ambas as soluções são frameworks desenvolvidos em Python para criar GUIs.O objetivo é descobrir quais projetos têm maior probabilidade de permanecer viáveis, bem mantidos e escaláveis ao longo do tempo.
+Links:https://github.com/kivy/kivy e https://github.com/hoffstadt/DearPyGui
 ## Introdução
 
 **Kivy** e **Dear PyGUI** são frameworks Python destinados ao desenvolvimento de interfaces gráficas. 
