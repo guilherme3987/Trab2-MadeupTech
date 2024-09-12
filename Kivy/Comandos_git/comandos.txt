@@ -5,4 +5,5 @@ git log --pretty=format: --name-only | sort | uniq -c | sort -nr | head -10 | te
 git log --pretty=format: --name-only --no-merges | sort | uniq -c | sort -nr | head -20 | tee files-churn.txt
 git log --pretty=format:"%h - %an, %ad : %s" --since="12 months ago" | tee commits_data.txt #Lista todos commits por data
 git rev-list --count HEAD --since="12 months ago" | tee num_commits.txt
-
+$ git log -1 --format=%cd | tee last_commit.txt
+$ git tag --sort=-v:refname | tee version_releases.txt
