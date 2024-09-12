@@ -1,0 +1,10 @@
+  12947
+    401 kivy/uix/textinput.py
+    388 setup.py
+    333 kivy/core/window/__init__.py
+    280 kivy/data/style.kv
+    228 kivy/uix/widget.py
+    221 kivy/__init__.py
+    216 kivy/uix/scrollview.py
+    210 kivy/lang.py
+    206 kivy/properties.pyx
