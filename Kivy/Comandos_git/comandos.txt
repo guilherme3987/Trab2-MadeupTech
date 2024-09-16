@@ -16,4 +16,4 @@ $ gh issue list --state closed #issues resolvidas
 $ gh issue list --state open #open issues
 
 #Testes feitos
-$ git log --grep="test\|ci\|pipeline\|unittest\|integration\|spec\|fix\|build\|deploy\|refactor\|coverage\|TDD"
+$ git log --grep="test\|ci\|pipeline\|unittest\|integration\|spec\|fix\|build\|deploy\|refactor\|coverage\|TDD" | tee testes.txt
