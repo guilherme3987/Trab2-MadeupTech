@@ -1,0 +1,10 @@
+   2807 
+    318 docs/CHANGELOG.txt
+    267 CMakeLists.txt
+    232 DearPyGui/dearpygui/demo.py
+    202 DearPyGui/dearpygui/core.pyi
+    191 DearPyGui/src/core/AppItems/mvAppItem.h
+    183 docs/README.md
+    180 DearPyGui/src/core/AppItems/mvAppItem.cpp
+    154 DearPyGui/cmake/dpg_sources.cmake
+    145 DearPyGui/dearpygui/dearpygui.py
