@@ -11,6 +11,9 @@ $ git tag --sort=-v:refname | tee version_releases.txt
 #exibe o histórico de commits relacionados a tags, de forma simplificada, mostrando apenas as informações de data e o que está decorado (como tags e branches)
 $ git log --tags --simplify-by-decoration --pretty="format:%ci %d" | tee commits_tag.txt
 
+#Versões por data
+$ git log --tags --simplify-by-decoration --pretty="format:%h %d %s %ai"
+
 #Usando o GitHub CLI
 $ gh issue list --state closed #issues resolvidas
 $ gh issue list --state open #open issues
