@@ -1,4 +1,4 @@
-   2807 
+   Total: 2807 
     318 docs/CHANGELOG.txt
     267 CMakeLists.txt
     232 DearPyGui/dearpygui/demo.py
