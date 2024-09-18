@@ -1,0 +1,20 @@
+   2701 
+    318 docs/CHANGELOG.txt
+    267 CMakeLists.txt
+    232 DearPyGui/dearpygui/demo.py
+    202 DearPyGui/dearpygui/core.pyi
+    191 DearPyGui/src/core/AppItems/mvAppItem.h
+    183 docs/README.md
+    180 DearPyGui/src/core/AppItems/mvAppItem.cpp
+    154 DearPyGui/cmake/dpg_sources.cmake
+    145 DearPyGui/dearpygui/dearpygui.py
+    144 DearSandbox/sandbox.py
+    129 DearPyGui/src/Core/mvMarvel.cpp
+    128 DearPyGui/src/core/AppItems/plots/mvPlot.cpp
+    125 DearPyGui/src/core/mvApp.cpp
+    122 MarvelSandbox/App.py
+    122 DearPyGui/src/core/AppItems/mvItemRegistry.cpp
+    121 DearPyGui/src/core/AppItems/containers/mvWindowAppItem.cpp
+    107 docs/CHANGELOG.md
+     96 DearPyGui/src/core/AppItems/nodes/mvNodeEditor.cpp
+     91 DearSandbox/Demo.py
