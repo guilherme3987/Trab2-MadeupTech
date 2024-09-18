@@ -1,0 +1,33 @@
+6541ac7e - Jonathan Hoffstadt, Sat Apr 13 14:23:34 2024 -0500 : ci: fix static analysis workflow
+491fa0ab - Jonathan Hoffstadt, Thu Mar 14 21:33:45 2024 -0500 : fix: m1 runners & sandbox app
+78947e00 - Jonathan Hoffstadt, Mon Mar 4 21:08:50 2024 -0600 : chore: 1.11.1 WIP
+c58d7550 - Vladimir Ein, Thu Feb 1 12:33:38 2024 +0500 : fix (mvDrawRect): Removed the default for corner_colors so that it doesn't break the old color arguments
+003efa94 - Vladimir Ein, Thu Jan 25 22:33:21 2024 +0500 : refac: Moved focusedItem and activeWindow to mvContext.
+e0855033 - Vladimir Ein, Fri Jan 19 14:31:03 2024 +0500 : feat: added get_focused_item() to request the current nav focus
+f087ccff - Jonathan Hoffstadt, Mon Jan 22 21:20:07 2024 -0600 : ci: fix static analysis warnings
+31373ffb - Jonathan Hoffstadt, Mon Jan 22 21:19:56 2024 -0600 : ci: add support for apple silicon runners
+40586937 - Jonathan Hoffstadt, Mon Jan 22 14:06:16 2024 -0600 : chore: happy new year
+4af976ab - Raccoon, Sat Jan 20 20:46:33 2024 +0100 : Update year of copyright in LICENSE
+8fcf0cd2 - Vladimir Ein, Fri Jan 12 14:16:53 2024 +0500 : fix (plots): set_axis_ticks can be used on secondary Y axes #2253
+c9d6a91f - Vladimir Ein, Thu Jan 11 02:30:58 2024 +0500 : fix (tables): Added missing curly braces
+89917072 - Vladimir Ein, Wed Jan 10 22:06:43 2024 +0500 : fix (mvTreeNode/mvCollapsingHeader): Keep the open state when parent window is hidden #1873
+e006122f - Vladimir Ein, Wed Jan 10 13:58:46 2024 +0500 : fix (mvMenu): Resetting menu state if it's not open #2245
+20824808 - Vladimir Ein, Wed Jan 10 13:55:26 2024 +0500 : fix (mvDrawRect): Restoring lost changes for PR #2239
+82655191 - Jonathan Hoffstadt, Fri Jan 5 20:54:13 2024 -0600 : chore: 1.11 WIP
+a9516694 - Jonathan Hoffstadt, Fri Jan 5 20:53:48 2024 -0600 : fix: partial fix for #1250 for windows
+e76f4d78 - wcq062821, Sat Jan 6 10:24:28 2024 +0800 : fix: demo, incomplete checkbox layout in demo.py has been fixed (#2230)
+d6793efd - Mohammed Chamma, Fri Jan 5 21:22:11 2024 -0500 : docs: add selectable tables to docs and demo (#2158)
+060c30ef - Samuele Mazzi, Sat Jan 6 03:18:25 2024 +0100 : perf: reserving memory in advance in order to improve performances (#2087)
+077b344a - Jonathan Hoffstadt, Fri Jan 5 20:15:02 2024 -0600 : fix: merge issues from recent PR sweep
+30aa1aae - Jonathan Hoffstadt, Fri Jan 5 20:08:23 2024 -0600 : chore: Merge pull request #2144 from v-ein/feature/keyboard-navigation
+0b623239 - Jonathan Hoffstadt, Fri Jan 5 20:07:24 2024 -0600 : Merge branch 'master' into feature/keyboard-navigation
+4eaf48ec - Vladimir Ein, Fri Dec 29 21:26:22 2023 +0500 : fix (mvMenu): Resetting menu state if it's not open #2245
+8b7e1909 - Vladimir Ein, Fri Oct 6 13:17:02 2023 +0500 : fix (mvNodeLink): Passing state to handlers instead of nullptr #2197
+7445213f - Vladimir Ein, Sat Sep 23 00:11:00 2023 +0500 : fix (handlers): Proper testing for handler applicability.
+01f646e4 - Vladimir Ein, Fri Nov 10 15:09:48 2023 +0500 : fix (mvNodeEditor): Nodes created with show=False lead to segfault #2151
+f6e50b23 - Vladimir Ein, Thu Nov 24 16:09:10 2022 +0500 : fix: enabled themes on table columns and cells #1782
+ee71d74d - Vladimir Ein, Wed Nov 23 23:52:36 2022 +0500 : fix: adding/removing a child in the table doesn't reset row colors.
+8b8d448f - Vladimir Ein, Tue Dec 19 07:27:08 2023 +0500 : fix (mvDrawRect): Replaced four separate corner colors with a single parm that properly maps colors to corners #1996 (#2239)
+49383185 - Raccoon, Thu Nov 30 21:29:33 2023 +0100 : docs: Update README.md (#2228)
+bdc02cb1 - Jonathan Hoffstadt, Wed Nov 1 19:31:19 2023 -0500 : docs: update minimum python version to 3.8
+ecf672a3 - Jonathan Hoffstadt, Mon Oct 9 13:16:28 2023 -0500 : feat: add python 3.12 support
